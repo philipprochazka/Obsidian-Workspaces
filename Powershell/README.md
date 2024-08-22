@@ -1,4 +1,4 @@
-<p align="Center"> <img src="https://github.com/philipprochazka/LazyAdmin/blob/gh-pages/Image/repository-Header_Image.png?raw=true" width="65%" alt="LazyAdmin" /> </p>
+<p align="Center"> <img src="https://github.com/philipprochazka/Obsidian-Workspaces/blob/main/Powershell/Img/remove-windows-powershell-virus-1.Jpeg" width="65%" alt="LazyAdmin" /> </p>
 # Anotation
 
 This repository contains my wiki for a number of scripts that I have written or enhanced to make day-to-day life easier for system administators. These are provided
