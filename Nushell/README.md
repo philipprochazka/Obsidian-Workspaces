@@ -1,4 +1,4 @@
-<p align="Center"> <img src="https://github.com/philipprochazka/Obsidian-Workspaces/blob/main/Bash/Img/Gnu-bash-logo.svg.png" width="65%" alt="LazyAdmin" /> </p>
+<p align="Center"> <img src="https://github.com/philipprochazka/Obsidian-Workspaces/blob/main/Nushell/Img/nu_logo.png" width="65%" alt="LazyAdmin" /> </p>
 # Anotation
 
 This repository contains my wiki for a number of scripts that I have written or enhanced to make day-to-day life easier for system administators. These are provided
