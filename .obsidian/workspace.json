@@ -15,7 +15,7 @@
               "state": {
                 "file": "Welcome.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -162,6 +162,17 @@
   },
   "active": "64c9c89bd08780cd",
   "lastOpenFiles": [
+    "VSCode/Key-Mappings/Virtual_KEYMAP-CZ.json",
+    "VSCode/Key-Mappings",
+    "VSCode/Nová složka",
+    "VSCode",
+    "Nová složka",
+    "Gimp/Readme.md",
+    "Gimp",
+    "VLC/img/VLC.xcf",
+    "VLC/img/favicon.ico",
+    "VLC/img",
+    "VLC/Nová složka",
     "Welcome.md"
   ]
 }

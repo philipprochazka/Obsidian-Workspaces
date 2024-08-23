@@ -1,0 +1,17 @@
+{
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source",
+  "showLineNumber": true,
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments",
+  "userIgnoreFilters": [
+    "Shell manuals/Bash/Img/",
+    "Shell manuals/cmd/Img/",
+    "Shell manuals/Nushell/Img/",
+    "Shell manuals/Powershell/Img/",
+    "Shell manuals/Zshell/Img/"
+  ]
+}
