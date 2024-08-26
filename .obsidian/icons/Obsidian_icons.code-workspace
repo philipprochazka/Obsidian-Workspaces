@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "vscode-codicons"
+		},
+		{
+			"path": "font-awesome-brands"
+		},
+		{
+			"path": "font-awesome-regular"
+		},
+		{
+			"path": "simple-icons-11.10.0"
+		},
+		{
+			"path": "octicons"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"jock.svg"
+		]
+	}
+}
