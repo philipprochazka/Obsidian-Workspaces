@@ -1,0 +1,1 @@
+<h1>GNU Image Manipulation Program </h1>
