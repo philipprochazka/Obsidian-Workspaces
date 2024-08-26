@@ -11,12 +11,8 @@
             "id": "64c9c89bd08780cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,19 +152,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64c9c89bd08780cd",
+  "active": "3cdffbc5b179e6f1",
   "lastOpenFiles": [
+    "Welcome.md",
+    "VSCode/Search/Search At Marketplace/Filtering.md",
+    "VSCode/Search/Search At Marketplace/Nový textový dokument.txt",
+    "VSCode/Search/Search At Marketplace/Sorting.md",
+    "VSCode/Search/Search At Marketplace/Nová složka",
+    "VSCode/Search/Search At Marketplace",
+    "VSCode/Search/Nová složka",
+    "VSCode/Search",
+    "VSCode/Nová složka",
     "VSCode/Key-Mappings/Virtual_KEYMAP-CZ.json",
     "VSCode/Key-Mappings",
-    "VSCode/Nová složka",
     "VSCode",
     "Nová složka",
-    "Gimp/Readme.md",
-    "Gimp",
-    "VLC/img/VLC.xcf",
-    "VLC/img/favicon.ico",
-    "VLC/img",
-    "VLC/Nová složka",
-    "Welcome.md"
+    "Gimp/Readme.md"
   ]
 }

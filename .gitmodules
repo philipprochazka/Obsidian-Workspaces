@@ -1,0 +1,11 @@
+[submodule "obsidian-help"]
+	path = obsidian-help
+	url = git@github.com:philipprochazka/obsidian-help.git
+	branch = English
+[submodule "WSL-wiki"]
+	path = WSL-wiki
+	url = git@github.com:philipprochazka/WSL-wiki
+[submodule "Network/Scanners/mRemoteNG"]
+	path = Network/Scanners/mRemoteNG
+	url = https://github.com/mRemoteNG/mRemoteNG.git
+	branch = v1.77.3-dev
