@@ -544,3 +544,5 @@ FodyWeavers.xsd
 *.css.map
 *.sass.map
 *.scss.map
+Shell manuals/Powershell/ENV.csv
+Shell manuals/Powershell/(VARIABLES)env.md

@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "47ba34e88b6959ef",
+        "id": "7e47bfc421dd229c",
         "type": "tabs",
         "children": [
           {
-            "id": "64c9c89bd08780cd",
+            "id": "a00c8f09fece103b",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Network"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -62,17 +60,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "12edb665115b1ead",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,18 +145,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "761544bc1efeff30",
+  "active": "85b521fecc0fdfe4",
   "lastOpenFiles": [
     "Shell manuals/Zshell/Img/Zshell-wizard.gif",
     "Shell manuals/Zshell/Img/ZSH.png",
