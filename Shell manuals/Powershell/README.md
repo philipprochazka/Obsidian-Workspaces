@@ -1,4 +1,6 @@
-<p align="Center"> <img src="https://github.com/philipprochazka/Obsidian-Workspaces/blob/main/Powershell/Img/remove-windows-powershell-virus-1.Jpeg" width="65%" alt="LazyAdmin" /> </p>
+# Powershell wiki
+```html
+<p align="Center"> <img src=".\\Img\\remove-windows-powershell-virus-1.Jpeg" width="65%" alt="LazyAdmin" /> </p>
 
 # Annotation
 
@@ -9,4 +11,4 @@ This repository will in time contain own my wiki for powershell it should contai
 https://github.com/philipprochazka/LazyAdmin 
 for free to the community under an MIT License. An explanation or guide on how to use the scripts can be found on my 
 https://github.com/philipprochazka/Obsidian-Workspaces
-
+```
