@@ -160,6 +160,7 @@
   },
   "active": "a00c8f09fece103b",
   "lastOpenFiles": [
+    "Shell manuals/Powershell/Cheatsheet.md",
     "Shell manuals/Powershell/Build & deploy Github Pages Module/Windows native Build using (e.g. NPM, composer ) with validation deployment to Git.md",
     "Shell manuals/Powershell/Build & deploy Github Pages Module",
     "Shell manuals/Zshell/Img/Zshell-wizard.gif",
@@ -205,7 +206,6 @@
     "OS manpages/Windows/WSL-wiki/WSL/tutorials/linux.md",
     "OS manpages/Windows/WSL-wiki/WSL/tutorials/gui-apps.md",
     "OS manpages/Windows/WSL-wiki/WSL/tutorials/gpu-compute.md",
-    "OS manpages/Windows/WSL-wiki/WSL/wsl2-mount-disk.md",
     "Untitled.canvas"
   ]
 }
