@@ -11,8 +11,13 @@
             "id": "a00c8f09fece103b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Shell manuals/Powershell/Build & deploy Github Pages Module/Windows native Build using (e.g. NPM, composer ) with validation deployment to Git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Network.md",
+                "file": "Shell manuals/Powershell/Build & deploy Github Pages Module/Windows native Build using (e.g. NPM, composer ) with validation deployment to Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Network.md",
+                "file": "Shell manuals/Powershell/Build & deploy Github Pages Module/Windows native Build using (e.g. NPM, composer ) with validation deployment to Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Network.md"
+                "file": "Shell manuals/Powershell/Build & deploy Github Pages Module/Windows native Build using (e.g. NPM, composer ) with validation deployment to Git.md"
               }
             }
           },
@@ -153,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85b521fecc0fdfe4",
+  "active": "a00c8f09fece103b",
   "lastOpenFiles": [
+    "Shell manuals/Powershell/Build & deploy Github Pages Module/Windows native Build using (e.g. NPM, composer ) with validation deployment to Git.md",
+    "Shell manuals/Powershell/Build & deploy Github Pages Module",
     "Shell manuals/Zshell/Img/Zshell-wizard.gif",
     "Shell manuals/Zshell/Img/ZSH.png",
     "Shell manuals/Zshell/README.md",
@@ -173,7 +180,6 @@
     "VSCode/Search/Search At Marketplace/Filtering.md",
     "VSCode/Search/Search At Marketplace",
     "VSCode/Key-Mappings/Virtual_KEYMAP-CZ.json",
-    "VSCode/Search",
     "VLC/Readme.md",
     "Shell manuals/cmd/Img/CommandLineIcon.png",
     "Shell manuals/cmd/README.md",
@@ -192,7 +198,6 @@
     "OS manpages/Windows/WSL-wiki/WSL/media/offlineinstallscreens/6-screen.png",
     "OS manpages/Windows/WSL-wiki/WSL/media/offlineinstallscreens/5-screen.png",
     "OS manpages/Windows/WSL-wiki/WSL/media/offlineinstallscreens/4-screen.png",
-    "OS manpages/Windows/WSL-wiki/WSL/media/offlineinstallscreens/3-screen.png",
     "OS manpages/Windows/WSL-wiki/WSL/tutorials/wsl-vscode.md",
     "OS manpages/Windows/WSL-wiki/WSL/tutorials/wsl-git.md",
     "OS manpages/Windows/WSL-wiki/WSL/tutorials/wsl-database.md",

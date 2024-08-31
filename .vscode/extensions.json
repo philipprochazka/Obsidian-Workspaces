@@ -1,7 +1,6 @@
 {
     "recommendations": [
         "mechatroner.rainbow-csv",
-        "unifiedjs.vscode-remark",
-        "genieai.chatgpt-vscode"
+        "unifiedjs.vscode-remark"
     ]
 }

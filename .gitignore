@@ -546,3 +546,6 @@ FodyWeavers.xsd
 *.scss.map
 Shell manuals/Powershell/ENV.csv
 Shell manuals/Powershell/(VARIABLES)env.md
+.obsidian/icons/vscode-codicons
+.obsidian/plugins/find-unlinked-files
+.obsidian/plugins/makemd
