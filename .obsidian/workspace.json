@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "61c9fc61ab1fb5d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VLC/Readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell manuals/Powershell/Build & deploy Github Pages Module/Windows native Build using (e.g. NPM, composer ) with validation deployment to Git.md",
+                "file": "VLC/Readme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell manuals/Powershell/Build & deploy Github Pages Module/Windows native Build using (e.g. NPM, composer ) with validation deployment to Git.md",
+                "file": "VLC/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell manuals/Powershell/Build & deploy Github Pages Module/Windows native Build using (e.g. NPM, composer ) with validation deployment to Git.md"
+                "file": "VLC/Readme.md"
               }
             }
           },
@@ -158,10 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a00c8f09fece103b",
+  "active": "61c9fc61ab1fb5d3",
   "lastOpenFiles": [
-    "Shell manuals/Powershell/Cheatsheet.md",
+    "VLC/VLC.md",
+    "Shell manuals/Powershell/Build & deploy Github Pages Module/README.md.md",
     "Shell manuals/Powershell/Build & deploy Github Pages Module/Windows native Build using (e.g. NPM, composer ) with validation deployment to Git.md",
+    "Shell manuals/Powershell/Register-ScheduledJob",
+    "Shell manuals/Powershell/Cheatsheet.md",
     "Shell manuals/Powershell/Build & deploy Github Pages Module",
     "Shell manuals/Zshell/Img/Zshell-wizard.gif",
     "Shell manuals/Zshell/Img/ZSH.png",
@@ -180,7 +197,6 @@
     "VSCode/Search/Search At Marketplace/Sorting.md",
     "VSCode/Search/Search At Marketplace/Filtering.md",
     "VSCode/Search/Search At Marketplace",
-    "VSCode/Key-Mappings/Virtual_KEYMAP-CZ.json",
     "VLC/Readme.md",
     "Shell manuals/cmd/Img/CommandLineIcon.png",
     "Shell manuals/cmd/README.md",
@@ -204,8 +220,6 @@
     "OS manpages/Windows/WSL-wiki/WSL/tutorials/wsl-database.md",
     "OS manpages/Windows/WSL-wiki/WSL/tutorials/wsl-containers.md",
     "OS manpages/Windows/WSL-wiki/WSL/tutorials/linux.md",
-    "OS manpages/Windows/WSL-wiki/WSL/tutorials/gui-apps.md",
-    "OS manpages/Windows/WSL-wiki/WSL/tutorials/gpu-compute.md",
     "Untitled.canvas"
   ]
 }

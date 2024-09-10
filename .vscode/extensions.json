@@ -8,5 +8,6 @@
         "usernamehw.errorlens",
         "sleistner.vscode-fileutils",
         "streetsidesoftware.code-spell-checker",
+        "foxundermoon.shell-format",
     ]
 }
