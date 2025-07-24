@@ -2,6 +2,11 @@
     "recommendations": [
         "mechatroner.rainbow-csv",
         "unifiedjs.vscode-remark",
-        "genieai.chatgpt-vscode"
+        "luisfontes19.vscode-swissknife",
+        "UrosVujosevic.explorer-manager",
+        "ms-toolsai.jupyter",
+        
+
+
     ]
 }

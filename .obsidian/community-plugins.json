@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-advanced-uri",
+  "table-editor-obsidian",
+  "obsidian-linter",
+  "obsidian-read-it-later",
+  "obsidian-tasks-plugin"
 ]
