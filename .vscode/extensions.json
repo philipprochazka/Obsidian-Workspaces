@@ -2,11 +2,21 @@
     "recommendations": [
         "mechatroner.rainbow-csv",
         "unifiedjs.vscode-remark",
+<<<<<<< HEAD
         "luisfontes19.vscode-swissknife",
         "UrosVujosevic.explorer-manager",
         "ms-toolsai.jupyter",
         
 
 
+=======
+        "yzhang.markdown-all-in-one",
+        "aaron-bond.better-comments",
+        "eamodio.gitlens",
+        "usernamehw.errorlens",
+        "sleistner.vscode-fileutils",
+        "streetsidesoftware.code-spell-checker",
+        "foxundermoon.shell-format",
+>>>>>>> 4b358394443c87d606df1ed25c602ea41ebfa2a6
     ]
 }
